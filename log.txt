@@ -1,0 +1,8 @@
+12/16/21
+t--0.2
+Initially decided on a rough plan in class to have two methods, one binary one linear
+to then have a play method that would play one of them and we would comment the other out (similar to some HW's)
+
+t-- 0.5
+We ended up scrapping this to instead have the same test run twice but using the Systme method "currentTimeMillis" between each mrthod run to see the length.
+Our last addition was to also have multiple data sets to run through, varying in length. Added these to the plan
