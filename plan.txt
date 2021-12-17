@@ -1,0 +1,31 @@
+
+START
+
+Overloaded constructor accepts _hi and _lo inputs allowing us to manipualte the size of the array per each run 
+
+//smthn like this
+for (int i = 0; i < arr.length; i++)
+     arr[i] = (int)(( Math.random() * _hi) + _lo);
+     
+then the method for iterating through the array with Linear Search
+
+public class void LinSearch(){
+//code
+}
+
+then the method for iterating through the array with Binary Search
+
+public class void BinSearch(){
+//code
+}
+
+then a main method, using the countMilliSeconds Scanner method for timing 
+
+public static void main(String [] args){
+
+BinSearch( //inputs );
+System.countMilliSeconds();
+LinSearch( //inputs );
+System.countMilliSeconds();
+}
+//rough main but also needs testing on method countMilliSeconds to see if this will even work in this design
