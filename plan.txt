@@ -5,7 +5,7 @@ Overloaded constructor accepts _hi and _lo inputs allowing us to manipualte the 
 
 //smthn like this
 for (int i = 0; i < arr.length; i++)
-     arr[i] = (int)(( Math.random() * _hi) + _lo);
+     arr[i] = (int)(( Math.random() * (_hi - _lo)) + _lo);
      
 then the method for iterating through the array with Linear Search
 
