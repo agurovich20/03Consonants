@@ -6,3 +6,9 @@ to then have a play method that would play one of them and we would comment the 
 t-- 0.5
 We ended up scrapping this to instead have the same test run twice but using the Systme method "currentTimeMillis" between each mrthod run to see the length.
 Our last addition was to also have multiple data sets to run through, varying in length. Added these to the plan
+
+12/17/21
+Fixed creation of arrays (thank u class issues)
+fixed methods of binsearch and linsearch.
+
+heard abt computer noise? not sure yet how to fix it.
