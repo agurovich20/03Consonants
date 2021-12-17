@@ -29,3 +29,4 @@ LinSearch( //inputs );
 System.countMilliSeconds();
 }
 //rough main but also needs testing on method countMilliSeconds to see if this will even work in this design
+//if this works we may not need the two files for each set individually
