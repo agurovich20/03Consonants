@@ -14,7 +14,8 @@
 ### Results :
 
 #### Random Targets  
-- total time for 100,000 trials
+* - total time for 100,000 trials
+
 | Length of Array | Binary Time (milliseconds) | Linear Time (milliseconds) |
 | ----------- | ----------- | ----------- |
 | 10 | 0.0 | 1 |
@@ -24,7 +25,7 @@
 | 100000 | 31 | 9631 |
 
 #### Worst Target
-- total time for 100,000 trials
+* - total time for 100,000 trials
 | Length of Array | Binary Time (milliseconds) | Linear Time (milliseconds) |
 | ----------- | ----------- | ----------- |
 | 10          | 39          | 97          |
