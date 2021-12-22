@@ -1,3 +1,9 @@
+Oscar ,  Eric , Ari
+Team Consonants 
+APCS
+L03 -- Get empirircal --  test for binary over linear speed
+2021-12-22
+time spent:  8.0
 
  DISCO:
 - Use of Comparable Arrays over int arrays, that binarys success may be only on comparable arrays? 
