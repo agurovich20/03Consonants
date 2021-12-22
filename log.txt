@@ -15,11 +15,13 @@ heard abt computer noise? not sure yet how to fix it.
 
 12/20/21
 t -- 0.7
-Ran trials for our Data, discovered that a 10,000,000 trial took way too long given that our 1,000,000 trial alone took eight minutes to run, considered lowering trials but instead chose to look into smaller sizes ( 1,000 , 100, 10)
+Ran trials for our Data, discovered that a 10,000,000 trial took way too long given that our 1,000,000 trial alone took eight minutes to run, 
+considered lowering trials but instead chose to look into smaller sizes ( 1,000 , 100, 10)
   Maintained data size while also expanding lower as opposed to higher
 
 12/21/21
 t -- 1.5
 through gallery work discovered some things we ought add (check notes)
-Added worst case scenario trials with the last element of the array being the target, which is the worst case for both methods, ran trials for these.
+Added worst case scenario trials with the last element of the array being the target, which is the worst case for both methods, ran trials 
+for these (check data in README.md).
 labelled binWorst and linWorst, printed averages for these as well.
