@@ -8,3 +8,11 @@ QCC:
 - why is there any fluctuation in the times per test at all, what is the error that can be causing it?
       considering 'human error' isn't a factor
 - why does this take time if an image is this to a billion extent? Shouldn't this, even at massive scales, be instantaneous?
+
+GALLERY TOUR:
+
+Other groups had used much more trials than us, so we added a much larger integer for trials, (100,000);
+
+decided that a best case scenario trial was negligible as numbers seemed random and very uninformative.
+
+Should get avergae from dividjng by number of trials not size of the array (makes way more sense).
