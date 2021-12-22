@@ -21,4 +21,8 @@ Other groups had used much more trials than us, so we added a much larger intege
 
 decided that a best case scenario trial was negligible as numbers seemed random and very uninformative.
 
-Should get avergae from dividjng by number of trials not size of the array (makes way more sense).
+Should get avergae from dividing by number of trials not size of the array (makes way more sense).
+
+Range of results are very similar to range in the luckiest and unluckiest situation.
+
+Finding stadnard deviation can be difficult.
