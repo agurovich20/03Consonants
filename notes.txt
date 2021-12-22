@@ -1,10 +1,10 @@
 
- ##DISCO:
+ DISCO:
 - Use of Comparable Arrays over int arrays, that binarys success may be only on comparable arrays? 
 - running thousands of trials is as easy as adding a loop
 - use of outside classes for methods is much more efficent and provides MUCH cleaner code.
 
-##QCC: 
+QCC: 
 - why is there any fluctuation in the times per test at all, what is the error that can be causing it?
       considering 'human error' isn't a factor
 - why does this take time if an image is this to a billion extent? Shouldn't this, even at massive scales, be instantaneous?
