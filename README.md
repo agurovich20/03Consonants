@@ -26,6 +26,7 @@
 
 #### Worst Target
 * - total time for 100,000 trials
+
 | Length of Array | Binary Time (milliseconds) | Linear Time (milliseconds) |
 | ----------- | ----------- | ----------- |
 | 10          | 39          | 97          |
